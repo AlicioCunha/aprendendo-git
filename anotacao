@@ -1,0 +1,17 @@
+hierarquia de pastas E21
+
+alicio.cunha
+    dev
+
+
+----- Comandos basicos git e bash
+como navegar entre pastas dentro do gitbash
+    ** entrar na pasta
+        cd /c/alicio.neto/dev
+    ** voltar um nivel
+        cd ..
+
+ver conteudo da pasta 
+    * ls 
+
+
