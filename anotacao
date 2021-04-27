@@ -15,3 +15,7 @@ ver conteudo da pasta
     * ls 
 alterado
 
+git status - verifica estado do repositorio.
+git add - adiciona um arquivo para commitar
+git commit -m '' - gera um novo commit com a mensagem entre apostrofos.
+git push - manda para o repositorio remoto
