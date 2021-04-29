@@ -21,4 +21,5 @@ git commit -m '' - gera um novo commit com a mensagem entre apostrofos.
 git push - manda para o repositorio remoto
 
 
-editado
+git checkout -b <branch_name> - criar um nova branch
+git checkout  <branch_name> - vai para um branch especifica
